@@ -1,1 +1,1 @@
-Has clic aqui [aqui](my archivo.ipynb)
+Has clic aqui [aqui](myarchivo.ipynb)
